@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "An application that will allow readme files to be generated wi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JintekiWarrior/readme-generator.git"
+  },
+  "author": "Moe Yassine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JintekiWarrior/readme-generator/issues"
+  },
+  "homepage": "https://github.com/JintekiWarrior/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
+}
